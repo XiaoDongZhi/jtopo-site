@@ -1,0 +1,14 @@
+{
+    "name": "jtopo",
+    "version": "1.0.0",
+    "author": "wdy",
+    "description": "The first bae nodejs app!",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+		"express": "3.4.2",
+		"mysql": "2.5.2"
+    }
+}
+
